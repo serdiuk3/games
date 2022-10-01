@@ -1,0 +1,24 @@
+.wrapper{
+    width: 90%;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logoimg1{
+        text-align: center;
+        display: inline-block;
+        width: 80%;
+        height: 500px;
+}
+.logoimg2{
+    text-align: center;
+    display: inline-block;
+    width: 80%;
+    height: 500px;
+}
+.logoimg3{
+    text-align: center;
+    display: inline-block;
+    width: 80%;
+    height: 500px;
+}
